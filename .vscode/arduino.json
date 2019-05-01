@@ -1,0 +1,6 @@
+{
+    "port": "/dev/cu.usbmodem141101",
+    "board": "arduino:avr:uno",
+    "programmer": "AVR ISP",
+    "sketch": "neopixel_test/neopixel_test.ino"
+}
